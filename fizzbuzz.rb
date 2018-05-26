@@ -5,5 +5,7 @@ def fizzbuzz(int)
     "Fizz" # Go fizz
   elsif int % 5 == 0
     "Buzz"
+  else 
+    puts
   end  
 end
